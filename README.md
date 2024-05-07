@@ -73,7 +73,7 @@ cv2.destroyAllWindows()
 
 ## Result:
 
-Advantages:
+## Advantages:
 
 ### Simplicity: 
 Morphological operations are conceptually simple and easy to implement, making them accessible for various applications, including medical image analysis.
@@ -86,7 +86,7 @@ Despite modifying the image, morphological operations like erosion and dilation 
 ### Computationally Efficient: 
 Morphological operations are typically computationally efficient, allowing for real-time or near-real-time processing, which is essential for applications requiring quick diagnosis, such as fracture detection in medical images.
 
-Challenges:
+## Challenges:
 
 ### Parameter Tuning:
 Selecting appropriate parameters such as the size and shape of the structuring element for morphological operations can be challenging and may require manual tuning, especially when dealing with diverse datasets or varying imaging conditions.
